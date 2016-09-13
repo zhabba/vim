@@ -197,8 +197,3 @@ let g:unite_force_overwrite_statusline = 0
 let g:vimfiler_force_overwrite_statusline = 0
 let g:vimshell_force_overwrite_statusline = 0
 
-""""""""""""""
-" vim-cljfmt "
-""""""""""""""
-let g:clj_fmt_autosave = 1
-
